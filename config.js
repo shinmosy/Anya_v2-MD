@@ -121,7 +121,7 @@ global.message = {
 
 module.exports = {
 
-  sessionId:  process.env.SESSION_ID || "Queen Anya",  
+  sessionId:  process.env.SESSION_ID || "Mosy",  
   auto_read_status :  process.env.AUTO_READ_STATUS || "true",
   alwaysonline:  process.env.ALWAYS_ONLINE || "true",  
   readmessage:  process.env.READ_MESSAGE || "true",  
